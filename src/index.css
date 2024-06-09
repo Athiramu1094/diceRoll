@@ -1,0 +1,23 @@
+.dice-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .dice-roll {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .roll-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .roll-button:hover {
+    background-color: #45a049;
+  }
